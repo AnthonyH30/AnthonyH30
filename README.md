@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Anthony Harisson
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html, CSS and JavaScript
+- 👋 Olá, Eu sou o Anthony Harisson
+- 👀 Hoje trabalho com Front-end
+- 🌱 Estudando JavaScript
+- 📬 Contate-me no Email - anthonyharisson30@gmail.com
 
-<!---
-AnthonyH30/AnthonyH30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/anthonyh30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyh30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyh30&layout=compact&langs_count=7&theme=dark"/>
+</div>

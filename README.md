@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o Anthony Harisson
 - 💻 Sou Desenvolvedor Front-end React
-- 🌱 Estudando JavaScript e ReactJS
+- 🌱 Atualmente estudando ReactJS
 - 📬 Contate-me no Email - anthonyharisson30@gmail.com
 
 <div align="center">

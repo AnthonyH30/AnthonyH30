@@ -18,7 +18,7 @@ Sou um **Desenvolvedor Front End** apaixonado por tecnologia e inovação. Minha
 
 💡 Tenho experiência no desenvolvimento de projetos utilizando NextJs e React Native, sempre busco aprimorar minhas habilidades e contribuir para a escalabilidade do projeto. Sou adepto do aprendizado contínuo e apaixonado por criar soluções eficientes e inovadoras.
 
-💻 Atualmente estou desenvolvendo um **SAAS** chamado FitLife junto com outro dev parceiro, se você se interessou e quer saber mais sobre esse o projeto: [Link](https://github.com/igorVtermions/fit-life).
+💻 Atualmente estou desenvolvendo um **SAAS** chamado FitLife junto com outro dev parceiro, se você se interessou e quer saber mais sobre esse projeto: [Link](https://github.com/igorVtermions/fit-life).
 
 📫 **Entre em contato comigo:**
 - 📩 Email: anthonyharisson30@gmail.com
